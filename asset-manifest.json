@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/reactcovidupdates/static/js/main.776b9573.chunk.js",
+    "main.js.map": "/reactcovidupdates/static/js/main.776b9573.chunk.js.map",
+    "runtime-main.js": "/reactcovidupdates/static/js/runtime-main.b0237396.js",
+    "runtime-main.js.map": "/reactcovidupdates/static/js/runtime-main.b0237396.js.map",
+    "static/js/2.5ea98bdf.chunk.js": "/reactcovidupdates/static/js/2.5ea98bdf.chunk.js",
+    "static/js/2.5ea98bdf.chunk.js.map": "/reactcovidupdates/static/js/2.5ea98bdf.chunk.js.map",
+    "static/js/3.acaa1108.chunk.js": "/reactcovidupdates/static/js/3.acaa1108.chunk.js",
+    "static/js/3.acaa1108.chunk.js.map": "/reactcovidupdates/static/js/3.acaa1108.chunk.js.map",
+    "index.html": "/reactcovidupdates/index.html",
+    "static/js/2.5ea98bdf.chunk.js.LICENSE.txt": "/reactcovidupdates/static/js/2.5ea98bdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0237396.js",
+    "static/js/2.5ea98bdf.chunk.js",
+    "static/js/main.776b9573.chunk.js"
+  ]
+}
